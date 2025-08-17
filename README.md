@@ -2,13 +2,13 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=ru&langs_count=8&card_width=320&username=S-Sergey-YU)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=S-Sergey-YU)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&theme=swift&username=S-Sergey-YU)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&theme=swift&username=S-Sergey-YU)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=S-Sergey-YU)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=elegant&username=S-Sergey-YU)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -86,7 +86,7 @@
 
 ## 🎒 Образование
 [<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/stepik_postman.jpeg" width="280px" hspace="10px" alt="Сертификат Stepik: Postman для тестирования API">](https://raw.githubusercontent.com/S-Sergey-YU/S-Sergey-YU.github.io/refs/heads/main/stepik_postman.jpg)
 
 <br>
 <br>
